@@ -17,8 +17,6 @@
 
 🚀 My goals include becoming a skilled full-stack developer, contributing to open-source, and working with amazing developers around the world.
 
-📫 Let's connect: [Add your LinkedIn or email here] 
-
 
 ---
 
@@ -41,10 +39,10 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/walidshaikh" target="_blank">
+  <a href="https://linkedin.com/in/saima-a-shaikh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:walidshaikh@example.com">
+  <a href="mailto:saimashaikh70393@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
