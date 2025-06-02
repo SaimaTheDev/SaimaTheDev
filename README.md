@@ -1,23 +1,31 @@
 <h1 align="center">Hi 👋, I'm Saima</h1>
-<h3 align="center">Python & Java </h3>
+<h3 align="center">Python and Web Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Python+Ethusiast;Always+learning+new+tech;Clean+code+advocate" alt="Typing SVG" />
 </p>
 
 ---
+### About Me
+ 👋 Hi, I'm a passionate Web Developer and a 5th-semester Computer Science student.
 
+🌱 I love learning something new every day — whether it's a new framework, design concept, or coding challenge.
+
+💻 I'm currently focused on improving my frontend and backend skills, especially in the MERN stack.
+
+✨ I enjoy building clean, user-friendly websites and exploring how things work behind the scenes.
+
+🚀 My goals include becoming a skilled full-stack developer, contributing to open-source, and working with amazing developers around the world.
+
+📫 Let's connect: [Add your LinkedIn or email here] 
 
 
 ---
 
 ###  Projects
 
-- 🔍 **[Lens-n-Light](https://github.com/WalidTheDev/Lens-n-Light)**  
-  *Camera rental platform*
-
-- 📊 **[DataLab](https://github.com/WalidTheDev/DataLab-Frontend)**  
-  *Interactive data visualization platform for rapid exploration*
+-  **[Small Python Projects](https://github.com/SaimaTheDev/small-python-codes)**  
+  *Repo of my samll Python Projects*
 
 ---
 
